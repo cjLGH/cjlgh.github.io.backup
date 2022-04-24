@@ -1,6 +1,8 @@
 # MEMORY.DMP Review
 
-### WinDbg
+## WinDbg
+
+### chrome.exe
 
 > Assuming the cause of this error was made by the Trend Micro Eagle Eye driver (tmeevw.sys) it would crash chrome.exe when it attempted to load.
 
